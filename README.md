@@ -1,4 +1,4 @@
-# SSQA_MATLAB (Stochastic simulated quantum annelinag for graph isomophism)
+# SSQA-for-GI-MATLAB (Stochastic simulated quantum annelinag for graph isomophism)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
